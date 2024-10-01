@@ -1,5 +1,6 @@
 name = 'prosto'
-print('kek ' + name)
+print('kek' * 5)
+print('kek' + name)
 
 # индексация
 print(name[1]) # по порядку
