@@ -3,7 +3,7 @@
 # current_yesr = 2024
 # date_of_dirth = int(input('В каком году вы родились? ')) # Преобразование типа данных
 # age = current_yesr - date_of_dirth
-# # age = current_yesr - int(date_of_dirth) Тоже верное преобразование типа данных
+# age = current_yesr - int(date_of_dirth) Тоже верное преобразование типа данных
 # print('Здравствуйте:', name)
 # print('В этом году Вам:', age, 'лет/года')
 
