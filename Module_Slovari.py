@@ -1,7 +1,6 @@
 # Словари
-from Module_2_Kartej import list_
-
 phone_book = {'kto tam': 1232132132, 'tru': 56767658767}
+print(type(phone_book))
 print(phone_book['kto tam']) # выводит по ключу
 phone_book['kto tam'] = 354342 # заменяет значение в ключе
 phone_book['qeqe'] = 12356519099 # ранее не сущ. список, он добавится
