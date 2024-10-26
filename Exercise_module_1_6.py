@@ -1,5 +1,4 @@
 # 1st program
-
 my_dict = {'Mari': 1999, 'Kuzya': 2000}
 print('Dict:', my_dict)
 print('Existing value:', my_dict.get('Mari'))
